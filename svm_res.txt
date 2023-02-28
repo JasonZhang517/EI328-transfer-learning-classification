@@ -1,0 +1,31 @@
+[0 0 0 ... 0 0 0] 3394 0.3252799057159694
+precision of current data set(set0) is 0.3252799057159694
+[ 1  1  1 ... -1 -1 -1] 3394 0.582203889216264
+precision of current data set(set1) is 0.582203889216264
+[ 1  1  1 ... -1 -1 -1] 3394 0.4979375368296995
+precision of current data set(set2) is 0.4979375368296995
+[1 1 1 ... 0 0 0] 3394 0.7908073070123748
+precision of current data set(set3) is 0.7908073070123748
+[ 1  1  1 ... -1 -1 -1] 3394 0.5159104301708898
+precision of current data set(set4) is 0.5159104301708898
+[ 1  1  1 ... -1 -1 -1] 3394 0.6110783736004715
+precision of current data set(set5) is 0.6110783736004715
+[0 0 0 ... 1 1 1] 3394 0.6862109605185621
+precision of current data set(set6) is 0.6862109605185621
+[ 1  1  1 ... -1 -1 -1] 3394 0.6272834413671184
+precision of current data set(set7) is 0.6272834413671184
+[1 1 1 ... 1 1 1] 3394 0.5359457866823807
+precision of current data set(set8) is 0.5359457866823807
+[-1 -1 -1 ... -1 -1 -1] 3394 0.4286977018267531
+precision of current data set(set9) is 0.4286977018267531
+[1 1 1 ... 0 0 0] 3394 0.8217442545668827
+precision of current data set(set10) is 0.8217442545668827
+[1 1 1 ... 1 1 1] 3394 0.5061873895109016
+precision of current data set(set11) is 0.5061873895109016
+[1 1 1 ... 0 0 0] 3394 0.9130819092516205
+precision of current data set(set12) is 0.9130819092516205
+[ 1  1  1 ... -1 -1 -1] 3394 0.6140247495580436
+precision of current data set(set13) is 0.6140247495580436
+[ 0  0  0 ... -1 -1 -1] 3394 0.7274602239245728
+precision of current data set(set14) is 0.7274602239245728
+total average precision:0.6122569239835002
